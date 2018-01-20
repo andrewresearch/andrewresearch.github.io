@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Andrew Gibson</title>
+    <link>http://andrewresearch.net/topics/rest/</link>
+    <description>Recent content in Rest on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 Apr 2017 15:06:28 +1000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/topics/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>backend developments</title>
+      <link>http://andrewresearch.net/post/backend-developments/</link>
+      <pubDate>Mon, 10 Apr 2017 15:06:28 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/post/backend-developments/</guid>
+      <description>After many attempts to get the best uber-jar possible with sbt, I have eventually found that it is much easier to use sbt-native-packager
+It can be added through an sbt plugin in project/plugins.sbt file:
+addSbtPlugin(&amp;quot;com.typesafe.sbt&amp;quot; % &amp;quot;sbt-native-packager&amp;quot; % &amp;quot;1.2.0-M9&amp;quot;)  and enabled in build.sbt file:
+enablePlugins(JavaAppPackaging)  Creating a package complete with shell script is as easy as running the sbt command:
+sbt universal:packageZipTarball  This file can then be uploaded to the server, unzipped and then the app run:</description>
+    </item>
+    
+  </channel>
+</rss>

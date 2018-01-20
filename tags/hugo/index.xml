@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Andrew Gibson</title>
+    <link>http://andrewresearch.net/tags/hugo/</link>
+    <description>Recent content in Hugo on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 05 May 2017 23:50:57 +1000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>this site</title>
+      <link>http://andrewresearch.net/post/this-site/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/post/this-site/</guid>
+      <description>All of the pages of this site are written in markdown. I use IntelliJ IDEA as an IDE and it supports markdown, and so the content files, config and theme form an IntelliJ project. The markdown files (which live in a content directory) are compiled to the actual HTML by Hugo, a static site generator. Hugo also has a live update server built in, which is great for checking the site as you write the pages.</description>
+    </item>
+    
+  </channel>
+</rss>

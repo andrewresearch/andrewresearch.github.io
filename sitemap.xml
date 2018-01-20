@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://andrewresearch.net/interest/rwa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/interest/tea/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/interest/nlytx/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/interest/goingok/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/post/this-site/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/post/zeppelin-notebooks/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/post/backend-developments/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/post/angular-wrangling/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/akka-streams/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/angular-cli/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/angular2/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/apache-zeppelin/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/api/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/api-development/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/aws/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/documentation/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/front-end-dev/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/hugo/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/interest/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/markdown/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/notebook/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/npm/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/post/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/programming/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/repeatible/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/research/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/rest/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/s3/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/scala/</loc>
+    <lastmod>2017-05-04T15:08:35+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/technologies/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/</loc>
+    <lastmod>2017-04-10T15:06:28+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/tags/typescript/</loc>
+    <lastmod>2017-04-09T15:02:16+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewresearch.net/topics/web-development/</loc>
+    <lastmod>2017-05-05T23:50:57+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

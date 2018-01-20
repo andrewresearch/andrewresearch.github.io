@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interests on Andrew Gibson</title>
+    <link>http://andrewresearch.net/interest/</link>
+    <description>Recent content in Interests on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    
+	<atom:link href="http://andrewresearch.net/interest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflective Writing Analytics</title>
+      <link>http://andrewresearch.net/interest/rwa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/interest/rwa/</guid>
+      <description>&lt;p&gt;Reflective Writing Analytics (RWA) is the computational analysis of reflective writing. That is when an author writes about themselves, their experiences, and their feelings and thoughts about these topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transepistemic Abduction</title>
+      <link>http://andrewresearch.net/interest/tea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/interest/tea/</guid>
+      <description>&lt;script type=&#34;text/x-mathjax-config&#34;&gt;
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [[&#39;$&#39;,&#39;$&#39;], [&#39;\\(&#39;,&#39;\\)&#39;]],
+    displayMath: [[&#39;$$&#39;,&#39;$$&#39;], [&#39;\[&#39;,&#39;\]&#39;]],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: [&#39;script&#39;, &#39;noscript&#39;, &#39;style&#39;, &#39;textarea&#39;, &#39;pre&#39;],
+    TeX: { equationNumbers: { autoNumber: &#34;AMS&#34; },
+         extensions: [&#34;AMSmath.js&#34;, &#34;AMSsymbols.js&#34;] }
+  }
+});
+&lt;/script&gt;
+
+
+  
+    
+    
+    
+    
+    
+        
+    
+
+
+
+&lt;p&gt;Transepistemic Abduction (TeA) is a specialised mode of reasoning which supports the use of intuition and heuristics when working between divergent epistemic domains.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nlytx.io</title>
+      <link>http://andrewresearch.net/interest/nlytx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/interest/nlytx/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//nlytx.io/&#34;&gt;nlytx.io&lt;/a&gt; is a site for demonstration of various analytics software based on natural language processing. Source code for these  web applications can be found on my &lt;a href=&#34;https://github.com/andrewresearch&#34;&gt;GitHub Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>goingok.org</title>
+      <link>http://andrewresearch.net/interest/goingok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/interest/goingok/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//goingok.org&#34;&gt;Going OK&lt;/a&gt; is a web application for the collection and analysis of personal reflective texts. The source code for GoingOK can be found on my &lt;a href=&#34;https://github.com/andrewresearch&#34;&gt;GitHub Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

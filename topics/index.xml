@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Andrew Gibson</title>
+    <link>http://andrewresearch.net/topics/</link>
+    <description>Recent content in Topics on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 Apr 2017 15:06:28 +1000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api Development</title>
+      <link>http://andrewresearch.net/topics/api-development/</link>
+      <pubDate>Mon, 10 Apr 2017 15:06:28 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/api-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>http://andrewresearch.net/topics/documentation/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front End Dev</title>
+      <link>http://andrewresearch.net/topics/front-end-dev/</link>
+      <pubDate>Sun, 09 Apr 2017 15:02:16 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/front-end-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://andrewresearch.net/topics/programming/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://andrewresearch.net/topics/research/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>http://andrewresearch.net/topics/rest/</link>
+      <pubDate>Mon, 10 Apr 2017 15:06:28 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologies</title>
+      <link>http://andrewresearch.net/topics/technologies/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://andrewresearch.net/topics/web-development/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/topics/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

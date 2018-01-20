@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repeatible on Andrew Gibson</title>
+    <link>http://andrewresearch.net/tags/repeatible/</link>
+    <description>Recent content in Repeatible on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 May 2017 15:08:35 +1000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/tags/repeatible/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>zeppelin notebooks</title>
+      <link>http://andrewresearch.net/post/zeppelin-notebooks/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/post/zeppelin-notebooks/</guid>
+      <description>For some time I&amp;rsquo;ve been keeping an eye on the Apache Zeppelin project. I found with a recent look, that the project has developed to quite a mature standard despite it remaining a pre 1.0 release.
+An upcoming workshop that I&amp;rsquo;m running on Writing Analytics presented me with the opportunity to road test it in a real scenario. I was originally intending to use a [Jupyter Notebook]() for this task, but Zeppelin provided me with the ability to (a) work in Scala (including Spark if necessary), (b) interact easily with S3, and &amp;copy; render the analytics with Angular.</description>
+    </item>
+    
+  </channel>
+</rss>

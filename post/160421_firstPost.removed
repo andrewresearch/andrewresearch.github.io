@@ -1,0 +1,17 @@
+This file has been removed from the site
+
++++
+title = "Current Tech Explorations"
+date = "2016-04-21"
+tags = ["markdown", "aws","lambda architecture","scala","spark"]
+topics = ["technologies", "programming","web development"]
++++
+
+I thought it was fitting to focus my new site's first post on the current tech that I'm exploring at the moment. 
+
+Firstly, this site uses some tech that I have been using for a while and combines it with some new stuff. All of these posts are written in [markdown](//en.wikipedia.org/wiki/Markdown), which I have been using for a while with readme files on [GitHub](//guides.github.com/features/mastering-markdown/). I can recommend [MacDown](//macdown.uranusjr.com) as a markdown editor for OS X. What is new however, is that I'm using [Hugo](//gohugo.io), a static site generator to turn the markdown into a static website. However, rather than running this directly on my Mac, I upload my markdown files to an Amazon [AWS S3](//aws.amazon.com/s3) bucket, and an [AWS Lambda](//aws.amazon.com/lambda/) service automatically runs Hugo and puts the resulting site into a different S3 bucket. I followed this [blog post](//bezdelev.com/post/hugo-aws-lambda-static-website/) to set it up, and so far it is working great!
+
+Another tech interest for me at the moment is the [Lambda Architecture](//lambda-architecture.net) (not to be confused with the AWS Lambda service or a programming lanugage Lambda function).
+
+I have been programming in [Scala](//www.scala-lang.org) for a number of years now. The combination of Scala together with Lambda Architecture and an interest in Machine Learning, has led me to explore [Apache Spark](//spark.apache.org) and in particular [mLib](//spark.apache.org/mllib), the machine learning library of Spark.
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Andrew Gibson</title>
+    <link>http://andrewresearch.net/tags/</link>
+    <description>Recent content in Tags on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 Apr 2017 15:06:28 +1000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Akka Streams</title>
+      <link>http://andrewresearch.net/tags/akka-streams/</link>
+      <pubDate>Mon, 10 Apr 2017 15:06:28 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/akka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular Cli</title>
+      <link>http://andrewresearch.net/tags/angular-cli/</link>
+      <pubDate>Sun, 09 Apr 2017 15:02:16 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/angular-cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular2</title>
+      <link>http://andrewresearch.net/tags/angular2/</link>
+      <pubDate>Sun, 09 Apr 2017 15:02:16 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/angular2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Zeppelin</title>
+      <link>http://andrewresearch.net/tags/apache-zeppelin/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/apache-zeppelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>http://andrewresearch.net/tags/api/</link>
+      <pubDate>Mon, 10 Apr 2017 15:06:28 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>http://andrewresearch.net/tags/aws/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://andrewresearch.net/tags/hugo/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://andrewresearch.net/tags/markdown/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notebook</title>
+      <link>http://andrewresearch.net/tags/notebook/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Npm</title>
+      <link>http://andrewresearch.net/tags/npm/</link>
+      <pubDate>Sun, 09 Apr 2017 15:02:16 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/npm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeatible</title>
+      <link>http://andrewresearch.net/tags/repeatible/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/repeatible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>http://andrewresearch.net/tags/s3/</link>
+      <pubDate>Fri, 05 May 2017 23:50:57 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>http://andrewresearch.net/tags/scala/</link>
+      <pubDate>Thu, 04 May 2017 15:08:35 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>http://andrewresearch.net/tags/typescript/</link>
+      <pubDate>Sun, 09 Apr 2017 15:02:16 +1000</pubDate>
+      
+      <guid>http://andrewresearch.net/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

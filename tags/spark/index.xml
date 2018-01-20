@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spark on Andrew Gibson</title>
+    <link>http://andrewresearch.net/tags/spark/index.xml</link>
+    <description>Recent content in Spark on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <atom:link href="http://andrewresearch.net/tags/spark/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Current Tech Explorations</title>
+      <link>http://andrewresearch.net/post/160421_firstPost/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/post/160421_firstPost/</guid>
+      <description>&lt;p&gt;I thought it was fitting to focus my new site&amp;rsquo;s first post on the current tech that I&amp;rsquo;m exploring at the moment.&lt;/p&gt;
+
+&lt;p&gt;Firstly, this site uses some tech that I have been using for a while and combines it with some new stuff. All of these posts are written in &lt;a href=&#34;//en.wikipedia.org/wiki/Markdown&#34;&gt;markdown&lt;/a&gt;, which I have been using for a while with readme files on &lt;a href=&#34;//guides.github.com/features/mastering-markdown/&#34;&gt;GitHub&lt;/a&gt;. I can recommend &lt;a href=&#34;//macdown.uranusjr.com&#34;&gt;MacDown&lt;/a&gt; as a markdown editor for OS X. What is new however, is that I&amp;rsquo;m using &lt;a href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator to turn the markdown into a static website. However, rather than running this directly on my Mac, I upload my markdown files to an Amazon &lt;a href=&#34;//aws.amazon.com/s3&#34;&gt;AWS S3&lt;/a&gt; bucket, and an &lt;a href=&#34;//aws.amazon.com/lambda/&#34;&gt;AWS Lambda&lt;/a&gt; service automatically runs Hugo and puts the resulting site into a different S3 bucket. I followed this &lt;a href=&#34;//bezdelev.com/post/hugo-aws-lambda-static-website/&#34;&gt;blog post&lt;/a&gt; to set it up, and so far it is working great!&lt;/p&gt;
+
+&lt;p&gt;Another tech interest for me at the moment is the &lt;a href=&#34;//lambda-architecture.net&#34;&gt;Lambda Architecture&lt;/a&gt; (not to be confused with the AWS Lambda service or a programming lanugage Lambda function).&lt;/p&gt;
+
+&lt;p&gt;I have been programming in &lt;a href=&#34;//www.scala-lang.org&#34;&gt;Scala&lt;/a&gt; for a number of years now. The combination of Scala together with Lambda Architecture and an interest in Machine Learning, has led me to explore &lt;a href=&#34;//spark.apache.org&#34;&gt;Apache Spark&lt;/a&gt; and in particular &lt;a href=&#34;//spark.apache.org/mllib&#34;&gt;mLib&lt;/a&gt;, the machine learning library of Spark.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

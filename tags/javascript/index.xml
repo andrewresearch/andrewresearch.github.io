@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Andrew Gibson</title>
+    <link>http://andrewresearch.net/tags/javascript/</link>
+    <description>Recent content in Javascript on Andrew Gibson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://andrewresearch.net/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frontend Dev with Angular2</title>
+      <link>http://andrewresearch.net/post/170427_frontenddev_angular2/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewresearch.net/post/170427_frontenddev_angular2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
